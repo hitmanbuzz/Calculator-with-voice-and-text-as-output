@@ -1,4 +1,5 @@
 # Calculator-with-voice-and-text-as-output
+# This program will only work for Windows user only.
 
 This project is made by Hitman-2005 for fun.
 The program will do a mathematical calculation such addition, subtraction, multiplication and division.
